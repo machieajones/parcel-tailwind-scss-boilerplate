@@ -2,18 +2,18 @@
 
 #### Installation
 
-```http
+```bash
  yarn install
 ```
 
 #### Run dev
 
-```http
+```bash
  yarn dev
 ```
 
 #### Compile for build
 
-```http
+```bash
  yarn build
 ```
