@@ -1,21 +1,19 @@
 # Parcel.js, Tailwind & SCSS/SASS Boilerplate
 
-A brief description of what this project does and who it's for
-
 #### Installation
 
-```http
+```bash
  yarn install
 ```
 
 #### Run dev
 
-```http
+```bash
  yarn dev
 ```
 
 #### Compile for build
 
-```http
+```bash
  yarn build
 ```
