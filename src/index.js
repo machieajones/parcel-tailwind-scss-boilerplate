@@ -1,3 +1,3 @@
-const msg = "Hello, World!";
+import { multiply } from "./js/Example";
 
-console.log(msg);
+console.log(multiply(2, 2));
