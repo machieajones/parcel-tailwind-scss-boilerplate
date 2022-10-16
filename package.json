@@ -10,10 +10,12 @@
   },
   "scripts": {
     "dev": "npx parcel serve src/*.html",
-    "build": "npx parcel build src/*.html --public-url ."
+    "build": "rm -R dist/ && npx parcel build src/*.html --public-url .",
+    "source": "src/*.html"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "2.7.0",
+    "parcel-namer-hashless": "^1.0.3",
     "prettier": "^2.7.1",
     "prettier-plugin-tailwindcss": "^0.1.13",
     "sass": "^1.54.9"
