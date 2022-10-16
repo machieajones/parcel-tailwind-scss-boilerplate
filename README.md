@@ -1,5 +1,8 @@
 # Parcel.js, Tailwind & SCSS/SASS Boilerplate
 
+Changelog:
+16-10-22: Removed content hashing for filenames (i.e image1.928238183.png -> image1.png)
+
 #### Installation
 
 ```bash
